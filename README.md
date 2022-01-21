@@ -7,16 +7,15 @@ The Build Open Source Board is forming a mini-board of Governors/Directors to re
 
 # References
  * https://en.wikipedia.org/wiki/Community_source
-
  * https://directory.fsf.org/wiki/License:SCSL-2.8
-
  * https://en.wikipedia.org/wiki/Source-available_software
+ * https://en.wikipedia.org/wiki/Shared_Source_Initiative
 
 # Problem
 There are many and varied versions of "open" source licenses and what rules and restrictions apply to them.  One constitent thread though is that FSF and OSI licenses are free to be reused in some form without requirement for payment, but rather attribution, sharing or both.
 
 
 # Solution
-One potential soultion that Buildly and it's partners are exploring is a new community source license, where access to the code is given freely, but forking or copying of the code requires compensation to the author(s).  We realize this sites outside the OSI and FSF deffenitions of "open source" and is closer to the community source of reference list the SUN community soource license of 2001.  
+One potential soultion that Buildly and it's partners are exploring is a new community source license, where access to the code is given freely, but forking or copying of the code requires compensation to the author(s).  We realize this sites outside the OSI and FSF deffenitions of "open source" and is closer to the community source or shared source of reference promoted by both Microsft and SUN licenses of 2001.  
 
-As such we are proposing a new "Buildly Community Source License", that is simpler and easier to us then SUN's but focused on SaaS and cloud software implementations for custom labeled reused software.  This software is hosted and used by a third party, in exchange for compensation to the original author and can by redistributed or not depending on the compensation agreement.
+As such we are proposing a new "Buildly Community Source License", that is simpler and easier to us then previous and not restricted to one product ecosystem, but focused on SaaS and cloud software implementations for custom labeled reused software.  This software is hosted and used by a third party, in exchange for compensation to the original author and can by redistributed or not depending on the compensation agreement.
