@@ -6,9 +6,11 @@ Community Source merges the right to repair and community aspects of hardware an
 The Build Open Source Board is forming a mini-board of Governors/Directors to research and manage the community source license with in Buildly with goal of creating an entity in the future with Buildly and Age of Peers as founding members.
 
 # References
-https://en.wikipedia.org/wiki/Community_source#:~:text=Community%20source%20software%20licensing%20is,permitted%20access%20to%20source%20code.
+ * https://en.wikipedia.org/wiki/Community_source
 
-https://directory.fsf.org/wiki/License:SCSL-2.8
+ * https://directory.fsf.org/wiki/License:SCSL-2.8
+
+ * https://en.wikipedia.org/wiki/Source-available_software
 
 # Problem
 There are many and varied versions of "open" source licenses and what rules and restrictions apply to them.  One constitent thread though is that FSF and OSI licenses are free to be reused in some form without requirement for payment, but rather attribution, sharing or both.
